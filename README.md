@@ -14,7 +14,7 @@ Atividade complementar
 <main>
 <h1><img src="Multimidia/meuamigocao.jpg" alt="Meu amigo cão - Petshop">Quem somos</h1>
 <p>O que nós acreditamos<br>
-Na <strong>Meu amigo cão</strong>, o nosso sucesso como uma organização é conduzida pelo cuidado 
+<strong>Meu amigo cão</strong>, o nosso sucesso como uma organização é conduzida pelo cuidado 
 que temos com nossos animais.</p>
 Cras semper magna in velit tempus tristique quis non lorem. Mauris vitae fringilla sapien, sed volutpat elit. Fusce molestie euismod odio, ut blandit nulla bibendum ac. 
 Fusce posuere turpis sed sem tincidunt, sed auctor tellus faucibus. Proin ultrices enim vitae ipsum luctus, sed malesuada orci ornare. 
