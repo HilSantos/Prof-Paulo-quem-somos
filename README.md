@@ -25,7 +25,7 @@ Atividade complementar
         <a href="#"><img src="Multimidia/ms-pinterest.gif" alt="pinterest"></a>
         <a href="#"><img src="Multimidia/ms-gmais.gif" alt="google+"></a>
         
-    </figure>
+</figure>
 </section>
     </header>
     <nav>
@@ -76,6 +76,11 @@ Proin ultricies tempor lorem non facilisis. Pellentesque ac sem vel dui cursus s
 Ut nulla orci, eleifend mollis lorem ut, congue mollis sapien. Vestibulum id fermentum mi, nec scelerisque velit. 
 Sed sed lectus aliquam augue lobortis volutpat quis sit amet nisi. Proin ornare turpis congue nulla consectetur, sollicitudin euismod nisi vulputate. 
 Cras tincidunt lacus eget risus posuere, pulvinar elementum turpis sollicitudin. Proin egestas blandit volutpat.
+    
+<hr>
+<h2>Local</h2>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d3719.9994998858583!2d-47.78282985557449!3d-21.192178826994613!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1spt-BR!2sbr!4v1732036945799!5m2!1spt-BR!2sbr" width="1000" 
+height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </main>
 <footer>
     <p>Atendimento: <a href="mailto:atendimento@meuamigocao.com.br">atendimento@meuamigocao.com.br</a>
